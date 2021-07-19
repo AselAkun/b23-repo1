@@ -2,3 +2,5 @@ B23 is learning git
 
 We just made our first comit
 YAY!
+
+Git keeps track of vhangrs ftom the las point you made commit till the current change you make.
